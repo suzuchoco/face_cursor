@@ -1,0 +1,1 @@
+This is an app that allows you to move the cursor using your facial movements.
